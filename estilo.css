@@ -144,5 +144,5 @@ background-color: rgb(244, 8, 8);
       border: 10px solid red;
     border-radius: 50%;
     -webkit-filter: drop-shadow(15px 10px 5px rgba(255,0,0,1));
-    filter: d
+    filter: drop-shadow(15px 10px 5px rgba(255,0,0,1));
 }
